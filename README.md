@@ -49,3 +49,6 @@ List<String> keyWords = extractor.getKeyword(termList);
 [7] Le N H N, Quoc H B. Integrating Low-rank Approximation and Word Embedding for Feature Transformation in the High-dimensional Text Classification[J]. Procedia Computer Science, 2017, 112:437-446.
 
 [8] From Characters to Understanding Natural Language (C2NLU): Robust End-to-End Deep Learning for NLP Phil Blunsom, Kyunghyun Cho, Chris Dyer and Hinrich Schütze (2017)
+
+# License
+Apache 2.0
