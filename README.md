@@ -49,8 +49,3 @@ List<String> keyWords = extractor.getKeyword(termList);
 [7] Le N H N, Quoc H B. Integrating Low-rank Approximation and Word Embedding for Feature Transformation in the High-dimensional Text Classification[J]. Procedia Computer Science, 2017, 112:437-446.
 
 [8] From Characters to Understanding Natural Language (C2NLU): Robust End-to-End Deep Learning for NLP Phil Blunsom, Kyunghyun Cho, Chris Dyer and Hinrich Schütze (2017)
-
-[9] http://mp.weixin.qq.com/s?timestamp=1520236851&src=3&ver=1&signature=RPN-jOJNiTDkbhijsgP3mzBgKEiO4XdyXxTslIInkZpeHCFZt1CwSXzHoj0Nh1onpEgWThn-TxbI-mZ9DI8H*jxGSxtTI3ScfHpHmxNydGXG8VY9BS4DN4wrUxTIkHyeEfTwAfayyuFE0RODlcoTIRmohgbu2kiUoApQe4fKRR4=
-(原文：https://towardsdatascience.com/multi-class-text-classification-with-scikit-learn-12f1e60e0a9f)
-
-[10] http://mp.weixin.qq.com/s?timestamp=1520237353&src=3&ver=1&signature=RPN-jOJNiTDkbhijsgP3m2LCHyoJYxBjhXDE4dKuEqlF9FJbZXOHdJwS3M0fWwceuca1Bwy7i3COUxR27CwqHcUYYUBm*WK7QJGoSn9lOxYeUP-BKCKHjFEck2sGmjJ*R-DLsWwx1LMuRf8a5MTFt1M992*Eam8wM4ysoiGCynQ=
